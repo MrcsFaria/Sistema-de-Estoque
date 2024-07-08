@@ -620,7 +620,7 @@ def retirar_item():
             else:
                 messagebox.showerror("Erro", "Quantidade a ser deletada é maior que a quantidade atual.")
         else:
-            messagebox.showerror("Erro", "Material não encontrado no banco de dados.")
+            messagebox.showerror("Erro", "Produto não encontrado no banco de dados.")
 
     except Exception as e:
         messagebox.showerror("Erro", f"{str(e)}")
