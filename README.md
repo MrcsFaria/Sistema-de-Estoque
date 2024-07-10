@@ -12,7 +12,7 @@ Este projeto é um sistema de gerenciamento de estoque desenvolvido em Python, u
 - Python: Linguagem de programação principal utilizada no projeto.
 
 ## Tela de Login
-<img src="https://github.com/MrcsFaria/Sistema-de-Estoque/blob/main/Prints/1.PNG">
+<img src="https://github.com/MrcsFaria/Sistema-de-Estoque/blob/main/Prints/9.PNG">
 
 ## Tela de Menu
 <img src="https://github.com/MrcsFaria/Sistema-de-Estoque/blob/main/Prints/8.PNG">
